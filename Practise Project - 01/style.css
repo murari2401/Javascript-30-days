@@ -11,8 +11,8 @@ body,html {
 }
 
 #center{
-    width: 450px;
-    height: 250px;
+    width: 400px;
+    height: 200px;
     border: 1px solid black;
     position: absolute;
     top: 50%;

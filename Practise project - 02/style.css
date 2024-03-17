@@ -19,3 +19,11 @@ body {
     left: 50%;
     transform: translate(-50%,-50%);
 }
+
+.imagediv{
+    width: 200px;
+    height: 270px;
+    background-color: yellow;
+    position: absolute;
+    overflow: hidden;
+}
